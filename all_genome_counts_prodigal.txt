@@ -1,0 +1,14 @@
+/home/ashhadm/in_class/genomes/GCF_000008785.1/GCF_000008785.1_ASM878v1_genomic.fna: 1505
+/home/ashhadm/in_class/genomes/GCF_000008605.1/GCF_000008605.1_ASM860v1_genomic.fna: 1009
+/home/ashhadm/in_class/genomes/GCF_000091085.2/GCF_000091085.2_ASM9108v2_genomic.fna: 1057
+/home/ashhadm/in_class/genomes/GCF_000007125.1/GCF_000007125.1_ASM712v1_genomic.fna: 3152
+/home/ashhadm/in_class/genomes/GCF_000008725.1/GCF_000008725.1_ASM872v1_genomic.fna: 897
+/home/ashhadm/in_class/genomes/GCF_000006825.1/GCF_000006825.1_ASM682v1_genomic.fna: 2032
+/home/ashhadm/in_class/genomes/GCF_000008525.1/GCF_000008525.1_ASM852v1_genomic.fna: 1579
+/home/ashhadm/in_class/genomes/GCF_000006865.1/GCF_000006865.1_ASM686v1_genomic.fna: 2383
+/home/ashhadm/in_class/genomes/GCF_000006745.1/GCF_000006745.1_ASM674v1_genomic.fna: 3594
+/home/ashhadm/in_class/genomes/GCF_000008745.1/GCF_000008745.1_ASM874v1_genomic.fna: 1063
+/home/ashhadm/in_class/genomes/GCF_000008545.1/GCF_000008545.1_ASM854v1_genomic.fna: 1866
+/home/ashhadm/in_class/genomes/GCF_000008565.1/GCF_000008565.1_ASM856v1_genomic.fna: 3248
+/home/ashhadm/in_class/genomes/GCF_000008625.1/GCF_000008625.1_ASM862v1_genomic.fna: 1776
+/home/ashhadm/in_class/genomes/GCF_000027305.1/GCF_000027305.1_ASM2730v1_genomic.fna: 1748
