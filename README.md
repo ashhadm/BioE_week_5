@@ -37,7 +37,7 @@ nano myscript.sh
 chmod +x myscript.sh
 sbatch myscript.sh
 
-# output - prodigal_results.txt
+# output - prodigal_results.txt & all_genome_counts_prodigal.txt
 ```
 
 ## Annotate all genomes using prokka and check differences
@@ -47,6 +47,8 @@ touch my_prokka.sh
 nano my_prokka.sh
 chmod +x my_prokka.sh
 sbatch my_prokka.sh
+
+# output - prokka_results.txt
 ```
 
 ## Extract list of all unique gene names
