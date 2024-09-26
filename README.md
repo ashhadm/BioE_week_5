@@ -48,3 +48,6 @@ nano my_prokka.sh
 chmod +x my_prokka.sh
 sbatch my_prokka.sh
 ```
+
+![image](https://github.com/user-attachments/assets/c31a1002-6ee4-4207-9cfb-60a790dfd7b0)
+
