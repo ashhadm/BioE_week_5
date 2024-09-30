@@ -61,7 +61,7 @@ head -n 5 unique_gene_names.txt
 
 ## Extracting CRISPR sequences
 
-Full results can be found at: [Link text]([https://website-name.com](https://drive.google.com/drive/folders/10ZARff8yfctWOikBWkoREE9Lg--p7nhn?usp=drive_link))
+Full results can be found at: [Drive Link]([https://website-name.com](https://drive.google.com/drive/folders/10ZARff8yfctWOikBWkoREE9Lg--p7nhn?usp=drive_link))
 
 ```bash
 conda env create -f ccf.environment.yml -n crisprcasfinder
