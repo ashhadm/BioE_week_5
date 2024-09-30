@@ -59,3 +59,19 @@ head -n 5 unique_gene_names.txt
 ```
 ![image](https://github.com/user-attachments/assets/c31a1002-6ee4-4207-9cfb-60a790dfd7b0)
 
+## Extracting CRISPR sequences
+
+```bash
+conda env create -f ccf.environment.yml -n crisprcasfinder
+conda activate crisprcasfinder
+mamba init
+mamba activate
+mamba install -c bioconda macsyfinder=2.1.2
+macsydata install -u CASFinder==3.1.0
+
+touch cas_script.sh
+chmod +x cas_script.sh
+./cas_script.sh
+
+# Output: crispr_results.tsv
+```
